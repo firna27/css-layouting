@@ -1,0 +1,24 @@
+div {
+    width: 185px;
+    height: 200px;
+    background-color: rgb(155, 145, 6);
+    margin: 20px auto;
+    padding-left: 20px;
+    padding-top: 10px 20px 30px 40px ;
+    padding: 50px ;
+    border-right: 5px solid black;
+    border-left: 10px dashed royalblue;
+
+}
+.satu {
+    width: 570;
+    background-color: royalblue;
+    padding: 10px;
+    border: 5px dashed red;
+}
+.dua {
+    width: 520px;
+    background-color: lightgreen;
+    padding: 30px;
+    border: 10px dashed orange;
+}
